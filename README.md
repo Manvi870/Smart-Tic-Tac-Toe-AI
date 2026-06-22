@@ -1,2 +1,25 @@
 # Smart-Tic-Tac-Toe-AI
-Developed an advanced Tic Tac Toe game using Python and Tkinter featuring Medium AI, Dark/Light Theme, Live Timer, Statistics Tracking, Winner Animation and Sound Effects.
+
+An advanced Tic Tac Toe game built using Python and Tkinter.
+
+## Features
+
+- Medium AI Opponent
+- Player Name Input
+- Score Tracking System
+- Statistics Panel
+- Live Timer
+- Dark / Light Theme Toggle
+- Winner Highlighting
+- Winner Animation
+- Sound Effects
+- Responsive GUI Design
+
+## Technologies Used
+
+- Python
+- Tkinter
+
+## Developer
+
+Developed by Manvi Balodi
